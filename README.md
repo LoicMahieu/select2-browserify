@@ -5,7 +5,7 @@ Select2
 
 Get started:
 ------------
-Install select2-browserif
+Install select2-browserify
 
     npm install browserify            # Install browserify if not yet
     npm install select2-browserify
