@@ -1,18 +1,18 @@
 {
-  "name"          : "select2-browserify",
-  "description"   : "Select2 - For Browserify",
-  "url"           : "http://ivaynberg.github.com/select2/",
-  "keywords"      : ["browser", "browserify", "select2"],
-  "author"        : "Igor Vaynberg <igor.vaynberg@gmail.com>",
-  "contributors"  : [],
-  "dependencies"  : {},
-  "devDependencies": {},
-  "lib"           : "lib",
-  "main"          : "lib/select2.js",
-  "repository"    : "git://github.com/loicmahieu/select2-browserify.git",
-  "version"       : "3.4.4",
-  "browserify"    : {
-    "dependencies"  : {}, 
-    "main"         : "lib/select2.js"
-  }
+    "name": "select2-browserify",
+    "description": "Select2 - For Browserify",
+    "url": "http://ivaynberg.github.com/select2/",
+    "keywords": ["browser", "browserify", "select2"],
+    "author": "Igor Vaynberg <igor.vaynberg@gmail.com>",
+    "contributors": [],
+    "dependencies": {},
+    "devDependencies": {},
+    "lib": "lib",
+    "main": "lib/select2.js",
+    "repository": "git://github.com/loicmahieu/select2-browserify.git",
+    "version": "3.4.5",
+    "browserify": {
+        "dependencies": {},
+        "main": "lib/select2.js"
+    }
 }
