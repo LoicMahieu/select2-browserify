@@ -1,5 +1,7 @@
 ### There are much better solutions for requiring select2 in browserify than this module. See https://github.com/LoicMahieu/select2-browserify/issues/4
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LoicMahieu/select2-browserify.svg)](https://greenkeeper.io/)
+
 Select2-browserify
 =================
 Browersified version of the excellent jQuery based replacement for select boxes:
